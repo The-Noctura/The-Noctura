@@ -3,7 +3,7 @@
 A vocational student learning fullstack development independently.
 
 ## 🚧 Currently
-Following a self-paced fullstack development roadmap.
+Following a self-paced fullstack roadmap — currently focusing on HTML, CSS & JavaScript.
 
 ## 🛠️ Tools I Use
 - **Editor:** VS Code
